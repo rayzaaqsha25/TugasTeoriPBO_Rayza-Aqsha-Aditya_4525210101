@@ -1,11 +1,32 @@
 # Teori Pemrograman Berorientasi Objek (PBO)
 
-Kumpulan kode latihan mata kuliah **Pemrograman Berorientasi Objek** pertemuan 1 sampai 6, ditulis dalam **PHP** (dengan satu pembanding versi **Java** pada Pertemuan 2).
-
-**Penulis:** Rayza Aqsha Aditya
+**:** Rayza Aqsha Aditya-4525210101
 
 ---
+1. Pastikan PHP sudah terpasang. Periksa melalui terminal:
 
+php --version
+
+2. Buka terminal di folder proyek Tugas1-PBO-A (misalnya melalui Terminal > New Terminal di VS Code), lalu jalankan salah satu perintah berikut. Tanda kutip diperlukan karena beberapa nama folder mengandung spasi:
+
+cd "pertemuan 1"
+php Main.php
+cd "pertemuan 2"
+php Main.php
+cd "pertemuan 3"
+php Main.php
+cd "pertemuan 4"
+php Main.php
+cd "pertemuan 5"
+php Main.php
+cd "pertemuan 6"
+php Main.php
+
+Jalankan satu perintah setiap kali untuk melihat output contoh tersebut. Perintah-perintah ini juga dapat dijalankan dari folder versiPHP dengan menghapus awalan versiPHP/ dari path berkas.
+
+App.php dan Main.php di folder 03 inheritance adalah dua contoh terpisah: App.php menjalankan contoh pewarisan bangun datar, sedangkan Main.php menjalankan contoh pewarisan kelas mahasiswa.
+
+## Gambar hasil setiap run
 ## SS PERTEMUAN 1 
 ![alt text](image.png)
 
@@ -22,7 +43,7 @@ Kumpulan kode latihan mata kuliah **Pemrograman Berorientasi Objek** pertemuan 1
 ![alt text](image-4.png)
 
 ## SS PERTEMUAN 6
-
+![alt text](image-5.png)
 
 ## Struktur Proyek
 
